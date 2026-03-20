@@ -1,0 +1,47 @@
+[
+  {
+    "product_id": "ELEC1001",
+    "name": "Samsung 55 inch Smart TV",
+    "category": "Electronics",
+    "price": 55000,
+    "brand": "Samsung",
+    "specifications": {
+      "screen_size": "55 inch",
+      "resolution": "4K",
+      "warranty_years": 2,
+      "voltage": "220V"
+    },
+    "features": ["Smart TV", "HDR", "WiFi", "Bluetooth"]
+  },
+
+  {
+    "product_id": "CLOTH2001",
+    "name": "Men's Denim Jacket",
+    "category": "Clothing",
+    "price": 3200,
+    "brand": "Levis",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "material": "Denim",
+    "colors": ["Blue", "Black"],
+    "care_instructions": {
+      "wash": "Machine Wash",
+      "iron": "Medium Heat"
+    }
+  },
+
+  {
+    "product_id": "GROC3001",
+    "name": "Organic Almonds",
+    "category": "Groceries",
+    "price": 850,
+    "brand": "Nature Fresh",
+    "expiry_date": "2024-12-30",
+    "weight": "500g",
+    "nutritional_info": {
+      "protein": "21g",
+      "fat": "49g",
+      "fiber": "12g"
+    },
+    "storage": "Store in a cool and dry place"
+  }
+]
